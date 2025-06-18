@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\BT3-3\BT3-3\bin\Debug\BT3-3.exe.config
+C:\Users\ADMIN\source\repos\BT3-3\BT3-3\bin\Debug\BT3-3.exe
+C:\Users\ADMIN\source\repos\BT3-3\BT3-3\bin\Debug\BT3-3.pdb
+C:\Users\ADMIN\source\repos\BT3-3\BT3-3\obj\Debug\BT3-3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BT3-3\BT3-3\obj\Debug\BT3_3.Form1.resources
+C:\Users\ADMIN\source\repos\BT3-3\BT3-3\obj\Debug\BT3_3.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\BT3-3\BT3-3\obj\Debug\BT3_3.ThemMoi.resources
+C:\Users\ADMIN\source\repos\BT3-3\BT3-3\obj\Debug\BT3-3.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\BT3-3\BT3-3\obj\Debug\BT3-3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BT3-3\BT3-3\obj\Debug\BT3-3.exe
+C:\Users\ADMIN\source\repos\BT3-3\BT3-3\obj\Debug\BT3-3.pdb
